@@ -1,5 +1,12 @@
 <?php
 
+/*
+ * SASLA – Simple Anti Spam Lite Approach
+ * Author: Mithun John Jacob
+ * More info: http://mithunjj.com/sasla/
+ * License: MIT License (http://opensource.org/licenses/MIT)
+ */
+
 class Sasla {
     /*
      * Protects your forms from spam
